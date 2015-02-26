@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 New Stuff
 
 Dubious Friends!
 
+=======
+AFter conflict
+>>>>>>> a22c2f9d43adcda221692443dff2660570e48f6e
